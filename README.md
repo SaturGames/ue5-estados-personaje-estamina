@@ -1,4 +1,4 @@
-<img width="1929" height="1050" alt="2E" src="https://github.com/user-attachments/assets/c47a3294-cd4c-44e0-a126-beea82652885" /># UE5 - Sistema Modular de Estados de Personaje, Estamina y Parkour | Gameplay Mechanics
+# UE5 - Sistema Modular de Estados de Personaje, Estamina y Parkour | Gameplay Mechanics
 
 Sistema modular y desacoplado de movimiento avanzado, gestión de estamina, validación de espacio libre (*headroom check*) y mecánicas de impulsión en entorno (*Launch Pad*) desarrollado en **Unreal Engine 5.4.4**. Diseñado enfocado en arquitectura limpia, escalabilidad y separación de responsabilidades lógicas mediante el uso de Eventos Personalizados (CE), transiciones de estado de personaje y gestión contextual de UI e Inputs.
 
